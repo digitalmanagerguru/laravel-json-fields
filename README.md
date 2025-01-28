@@ -1,6 +1,7 @@
 # Laravel Json Fields (Laravel Package)
-
-[![Latest Stable Version](http://poser.pugx.org/digitalmanagerguru/laravel-json-fields/v)](https://packagist.org/packages/digitalmanagerguru/laravel-json-fields) [![Total Downloads](http://poser.pugx.org/digitalmanagerguru/laravel-json-fields/downloads)](https://packagist.org/packages/digitalmanagerguru/laravel-json-fields) [![Latest Unstable Version](http://poser.pugx.org/digitalmanagerguru/laravel-json-fields/v/unstable)](https://packagist.org/packages/digitalmanagerguru/laravel-json-fields) [![License](http://poser.pugx.org/digitalmanagerguru/laravel-json-fields/license)](https://packagist.org/packages/digitalmanagerguru/laravel-json-fields) [![PHP Version Require](http://poser.pugx.org/digitalmanagerguru/laravel-json-fields/require/php)](https://packagist.org/packages/digitalmanagerguru/laravel-json-fields)
+[![GitHub tag](https://img.shields.io/github/tag/digitalmanagerguru/laravel-json-fields?include_prereleases=&sort=semver&color=blue)](https://github.com/digitalmanagerguru/laravel-json-fields/releases/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+[![issues - laravel-json-fields](https://img.shields.io/github/issues/digitalmanagerguru/laravel-json-fields)](https://github.com/digitalmanagerguru/laravel-json-fields/issues)
 
 Laravel JSON Fieds is simple and clean way to work with Eloquent JSON Fieds with Dot Notation.
 
