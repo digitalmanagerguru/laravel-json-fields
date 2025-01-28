@@ -1,0 +1,23 @@
+{
+    "name": "digitalmanagerguru/laravel-json-fields",
+    "description": "A package to work with database JSON fields with laravel eloquent Models.",
+    "type": "library",
+    "version": "1.0.0",
+    "require": {
+        "php": ">=8.3.0",
+        "illuminate/support": "*"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Digitalmanagerguru\\LaravelJsonFields\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Digital Manager Guru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
