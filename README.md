@@ -97,7 +97,7 @@ or
 `$user->addLog("Changed the is_active status") //string`
 
 ## License
-Laratrust is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+Laravel JSON Fields is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 ## Contributing
 Please report any issue you find in the issues page. Pull requests are more than welcome.
