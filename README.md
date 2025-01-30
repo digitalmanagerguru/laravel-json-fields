@@ -85,7 +85,7 @@ or
 `$user->forgetJsonKey(["addresses", "is_active"]) //void`
 
 #### Get all the content from the field decoded as an associative array (`getJsonFieldValue()`)
-`$user->getJsonFieldValue("addresses") //array`
+`$user->getJsonFieldValue() //array`
 
 #### Set all the content from and encoded associative array as JSON (`setJsonFieldValue(array $value)`)
 `$user->setJsonFieldValue([...]) //void`
