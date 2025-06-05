@@ -52,6 +52,15 @@ trait HasJsonFieldTrait
         $this->setJsonFieldValue($json);
     }
 
+    public function onlyJsonKey(array|string $key): void
+    {
+        $json = $this->getJsonFieldValue();
+
+        $newJson = \Arr::only($json, $key);
+
+        $this->setJsonFieldValue($newJson);
+    }
+
     public function getJsonFieldValue(): array
     {
         $json = \Arr::get($this->attributes, $this->getJsonFieldName());
