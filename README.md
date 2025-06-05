@@ -85,6 +85,11 @@ class ... implements HasJsonField
 or
 `$user->forgetJsonKey(["addresses", "is_active"]) //void`
 
+#### Keep values from a key, delete others (`onlyJsonKey($key)`)
+`$user->onlyJsonKey("addresses") //void`
+or
+`$user->onlyJsonKey(["addresses", "is_active"]) //void`
+
 #### Get all the content from the field decoded as an associative array (`getJsonFieldValue()`)
 `$user->getJsonFieldValue() //array`
 
