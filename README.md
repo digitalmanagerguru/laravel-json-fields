@@ -9,6 +9,7 @@ Laravel JSON Fieds is simple and clean way to work with Eloquent JSON Fieds with
 
 | Laravel       | Laravel JSON Fields                                 |
 | :------------ | :-------------------------------------------------- |
+| 13.x          | [3.x]                                               |
 | 12.x          | [2.x]                                               |
 | 10.x, 11.X    | [1.x]                                               |
 
